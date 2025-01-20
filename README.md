@@ -30,7 +30,7 @@ This step by step tutorial will guide you through the prerequisites and installa
 
 <p>
 
-  ![Image](https://github.com/user-attachments/assets/9587b821-5bfd-4f18-ad1d-9818c0339062)
+![Image](https://github.com/user-attachments/assets/a5031574-aa11-4c48-97be-4df4511f2cdb)
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
