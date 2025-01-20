@@ -3,17 +3,13 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+This step by step tutorial will guide you through the prerequisites and installation of osTicket.<br />
 
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
+- Remote Desktop(Windows & MacOS)
 - Internet Information Services (IIS)
 
 <h2>Operating Systems Used </h2>
@@ -22,11 +18,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- mySQL: The database which will contain the data from osTicket.
+- HeidiSQL: The database manager or GUI we will use to interact with the database.
+- PHP: The server-side scripting language used to display the HTML webpages of osTicket.
+- PHP Manager: A feature that will allow us to interact with the scripts through the Management Console.
+- VC Redist: Provides the necessary runtime components for running C++ applications, essential for certain dependencies of PHP and IIS.
+- Rewrite: (URL Rewrite Module for IIS) Allows for the customization of URLs, enabling redirection and URL rewriting for osTicket.
 
 <h2>Installation Steps</h2>
 
