@@ -48,5 +48,5 @@ This step by step tutorial will guide you through the prerequisites and installa
 <br />
 
 
-![Image](https://github.com/user-attachments/assets/e1b68e5d-5ee7-43a4-ac75-beed41c4cebd)
+![Image](https://github.com/user-attachments/assets/5d16e7e7-627a-4f4d-8df2-fb6933c9006d)
 
