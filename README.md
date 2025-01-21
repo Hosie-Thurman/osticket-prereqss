@@ -50,3 +50,4 @@ This step by step tutorial will guide you through the prerequisites and installa
 
 ![Image](https://github.com/user-attachments/assets/5d16e7e7-627a-4f4d-8df2-fb6933c9006d)
 
+![Image](https://github.com/user-attachments/assets/179cac46-69f5-4385-b830-81bfa2972333)
