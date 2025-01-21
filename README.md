@@ -9,8 +9,7 @@ This step by step tutorial will guide you through the prerequisites and installa
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop(Windows & MacOS)
+- Remote Desktop(Windows or MacOS)
 - Internet Information Services (IIS)
 
 <h2>Operating Systems Used </h2>
