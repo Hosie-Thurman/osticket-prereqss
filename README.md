@@ -47,17 +47,6 @@ This step by step tutorial will guide you through the prerequisites and installa
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
 
-</p>
-<br />
 ![Image](https://github.com/user-attachments/assets/e1b68e5d-5ee7-43a4-ac75-beed41c4cebd)
-</p>
-<p>
 
-</p>
-<br />
-![Image](https://github.com/user-attachments/assets/ff9e9d53-b73e-4cd6-8a79-86730bccda72)
